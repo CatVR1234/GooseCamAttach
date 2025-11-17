@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://files.catbox.moe/gylbvq.png" alt="Logo" width="300"/>
+</p>
+
+
 # Goose Camera Attach!
 
 To use this mod, you need to use MelonLoader v0.4.3 on Untitled Goose Game to use this mod. If not, it will not work.
